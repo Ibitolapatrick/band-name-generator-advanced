@@ -16,4 +16,4 @@ Frontend: EJS, HTML5, CSS3
 
 # 📖 Main Takeaway
 The biggest challenge was managing Data Flow. I learned how to capture data on the server during a POST request and pass it back to the client safely using EJS tags (<%= %>) and logical guards (if/else).
-![Project Preview](path/to/your/image.png)
+![Project Preview](/band-generator.png)
